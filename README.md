@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**wngud1004/wngud1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/wngud1004"
